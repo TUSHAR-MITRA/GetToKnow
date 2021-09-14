@@ -22,7 +22,7 @@
       "location": {
         "country": "India",
         "state": "Maharashtra"
-    }
+      }
     },
     {
       "firstName": "Kartik",
@@ -78,7 +78,15 @@
       "location": {
         "country": "India",
         "state": "Rajasthan"
-    }
+      }
+    },
+    {
+      "firstName": "Tushar",
+      "lastName": "Mitra",
+      "location": {
+        "country": "India",
+        "state": "Jharkhand"
+      }
     },
     {
       "firstName": "Dev",
