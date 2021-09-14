@@ -17,6 +17,14 @@
       }
     },
     {
+      "firstName": "Vaibhav",
+      "lastName": "Jaiswal",
+      "location": {
+        "country": "India",
+        "state": "Maharashtra"
+    }
+    },
+    {
       "firstName": "Kartik",
       "lastName": "Bhsuhan",
       "location": {
